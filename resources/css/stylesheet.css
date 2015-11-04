@@ -9,10 +9,6 @@ body
   border-radius: 0 !important;
 }
 
-.navbar {
-  margin-bottom: 1px !important;
-}
-
 .orange-seperator {
   background-color: #FF7F00;
   width: auto;
@@ -21,7 +17,8 @@ body
 
 .carousel-inner > .item > img {
   margin: 0 auto;
-  max-height: 600px;
+  width:100%;
+  width: auto;
 }
 
 .carousel-control.left, .carousel-control.right {

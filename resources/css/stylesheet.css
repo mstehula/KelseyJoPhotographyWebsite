@@ -19,11 +19,11 @@ body
   height: 1px;
 }
 
-.carousel-inner {
-  background-color: #444;
-  color: #666;
-}
 .carousel-inner > .item > img {
   margin: 0 auto;
   max-height: 600px;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background-image: none !important;
 }

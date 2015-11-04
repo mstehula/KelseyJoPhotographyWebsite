@@ -1,0 +1,29 @@
+body
+{
+  color: #666;
+  background-color: #333;
+}
+
+*
+{
+  border-radius: 0 !important;
+}
+
+.navbar {
+  margin-bottom: 1px !important;
+}
+
+.orange-seperator {
+  background-color: #FF7F00;
+  width: auto;
+  height: 1px;
+}
+
+.carousel-inner {
+  background-color: #444;
+  color: #666;
+}
+.carousel-inner > .item > img {
+  margin: 0 auto;
+  max-height: 600px;
+}

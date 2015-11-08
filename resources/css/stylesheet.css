@@ -15,12 +15,7 @@ body
   height: 1px;
 }
 
-.carousel-inner > .item > img {
-  margin: 0 auto;
-  width:100%;
-  width: auto;
-}
-
-.carousel-control.left, .carousel-control.right {
-  background-image: none !important;
+.tile-image {
+  min-width: 100%;
+  max-height: 100%;
 }
